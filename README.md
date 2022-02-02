@@ -26,3 +26,16 @@ Run using the command
 docker-compose up -d --build
 
 ```
+To Access Features through CLI
+
+```
+docker-compose run --rm <feature> <command>
+
+```
+
+To stop all features
+
+```
+docker-compose down
+
+```
