@@ -13,13 +13,6 @@ Basic Template for Docker Beginners.
 
 ## Instructions
 
-Bring the network down using
-
-```
-docker-compose down
-
-```
-
 Run using the command
 
 ```
